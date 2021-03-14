@@ -1,0 +1,3 @@
+rootProject.name = "MySimpleFileManager"
+include ':app'
+include ':Common'
